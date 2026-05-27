@@ -1,0 +1,2 @@
+# Hisoblash-matematikasi
+Python 
